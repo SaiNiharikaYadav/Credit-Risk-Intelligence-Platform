@@ -59,17 +59,19 @@ SQL-based querying
 
 
 Technology Stack
-Component	              Technology
-Frontend	              Streamlit
-Machine Learning	      XGBoost
-Data Processing	          Pandas, NumPy
-Visualization	          Matplotlib, Seaborn
-Explainability	          SHAP
-Database	              SQLite
-LLM	                      Google Gemini
-Deployment	              Docker
-Version Control	          Git & GitHub
-Project                   Workflow
+
+| Component        | Technology          |
+| ---------------- | ------------------- |
+| Frontend         | Streamlit           |
+| Machine Learning | XGBoost             |
+| Data Processing  | Pandas, NumPy       |
+| Visualization    | Matplotlib, Seaborn |
+| Explainability   | SHAP                |
+| Database         | SQLite              |
+| LLM              | Google Gemini       |
+| Deployment       | Docker              |
+| Version Control  | Git & GitHub        |
+
 
 
 Step 1: Data Collection
@@ -175,6 +177,7 @@ REST API Integration
 Real-Time Monitoring
 Model Retraining Pipeline
 Advanced Business Intelligence Dashboard
-Author
 
+
+Author
 Niharika Yadav
